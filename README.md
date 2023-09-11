@@ -1,3 +1,2 @@
 # Non-Parametric estimator statistic 
-## Professor Laurent Delsol
-## Year 2022
+## Professor Laurent Delsol (10/2022)
